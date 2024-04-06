@@ -1,0 +1,29 @@
+{
+        "anytime" : [
+                "Tu es superbe aujourd'hui!",
+                "Aujourd'hui est une journée incroyable !",
+                "Tu fait la différence",
+                "Un beau sourire, pour une belle journée",
+                "Est-ce que tu me regardes toujours?",
+                "Salut toi'"
+        ],
+        "morning" : [
+                "Tes cheveux sont superbes aujourd'hui !",
+                "Commencez la journée avec le sourire",
+                "Ce sera une belle journée !",
+                "Cette journée n'est-elle pas géniale ?",
+                "Prépare toi pour une superbe journée !"
+        ],
+        "afternoon" : [
+                "Je viens juste de finir ton travail...",
+                "Après-midi, pas matin, pas midi",
+                "Cette journée est géniale",
+                "C'est presque l'heure du dîner !"
+        ],
+        "evening" : [
+                "Bon appétit",
+                "Repose-toi bien",
+                "Vous avez fait la différence",
+                "tu t'es régalé au souper ?"
+        ]
+}
